@@ -1,0 +1,6 @@
+{
+  "name": "Analista de Investimentos — FIIs, Ações e Renda Sustentável",
+  "description": "Sistema profissional de análise fundamentalista, otimização de carteira de R$ 500k em FIIs e Ações, auditoria matemática e simulações de sustentabilidade de renda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
